@@ -1113,7 +1113,7 @@ button, .button {
   border-width: 1px;
   cursor: pointer;
   text-transform: uppercase;
-  font-family: 'Proxima Nova', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 1.25rem;
@@ -1347,7 +1347,7 @@ meta.foundation-mq-topbar {
     color: #999;
     padding: 12px 0 12px 0;
     padding-left: 15px;
-    font-family: 'Proxima Nova', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
     font-size: 0.9rem;
     font-weight: 300;
     text-transform: uppercase;
@@ -1982,7 +1982,7 @@ a {
 
 /* Default paragraph styles */
 p {
-  font-family: 'Proxima Nova', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 1.125rem;
   line-height: 2;
@@ -1998,7 +1998,7 @@ p {
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Proxima Nova', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: 700;
   font-style: normal;
   color: #222222;
@@ -2734,7 +2734,7 @@ dialog[open] {
 
 .label {
   font-weight: normal;
-  font-family: 'Proxima Nova', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   text-align: center;
   text-decoration: none;
   line-height: 1;
